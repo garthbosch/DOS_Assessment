@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Assessment Test Suite]">
+  <parameter name="filename" value="GoogleNews_CollectAndDisplayData_AutomationTesting"/>
+  <parameter name="selectedBrowserType" value="firefox"/>
+  <parameter name="waitTimeout" value="30"/>
+  <parameter name="url" value="http://news.google.com/"/>
+  <test name="Google News Data Collection and Display - Automation Testing - IE(failed)">
+    <parameter name="filename" value="GoogleNews_CollectAndDisplayData_AutomationTesting"/>
+    <parameter name="selectedBrowserType" value="firefox"/>
+    <parameter name="waitTimeout" value="30"/>
+    <parameter name="url" value="http://news.google.com/"/>
+    <groups>
+      <run>
+        <include name="googleNews"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.dos.test_assess.tests.CollectAndDisplayData">
+        <methods>
+          <include name="googleNews" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.dos.test_assess.tests.CollectAndDisplayData -->
+    </classes>
+  </test> <!-- Google News Data Collection and Display - Automation Testing - IE(failed) -->
+</suite> <!-- Failed suite [Assessment Test Suite] -->

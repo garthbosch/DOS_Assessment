@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Assessment Test Suite" duration-ms="43086" started-at="2017-04-11T21:03:24Z" finished-at="2017-04-11T21:04:07Z">
+    <groups>
+      <group name="googleNews">
+        <method signature="CollectAndDisplayData.googleNews(java.lang.String, java.lang.String, java.lang.String, int)[pri:0, instance:com.dos.test_assess.tests.CollectAndDisplayData@14acaea5]" name="googleNews" class="com.dos.test_assess.tests.CollectAndDisplayData"/>
+      </group> <!-- googleNews -->
+      <group name="sportsBetway">
+        <method signature="CollectAndDisplayData.sportsBetway(java.lang.String, java.lang.String, java.lang.String, int)[pri:0, instance:com.dos.test_assess.tests.CollectAndDisplayData@204f30ec]" name="sportsBetway" class="com.dos.test_assess.tests.CollectAndDisplayData"/>
+      </group> <!-- sportsBetway -->
+    </groups>
+    <test name="Google News Data Collection and Display - Automation Testing - Chrome" duration-ms="16106" started-at="2017-04-11T21:03:24Z" finished-at="2017-04-11T21:03:40Z">
+      <class name="com.dos.test_assess.tests.CollectAndDisplayData">
+        <test-method status="PASS" signature="googleNews(java.lang.String, java.lang.String, java.lang.String, int)[pri:0, instance:com.dos.test_assess.tests.CollectAndDisplayData@14acaea5]" name="googleNews" duration-ms="16082" started-at="2017-04-11T23:03:24Z" finished-at="2017-04-11T23:03:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://news.google.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[GoogleNews_CollectAndDisplayData_AutomationTesting]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[30]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleNews -->
+      </class> <!-- com.dos.test_assess.tests.CollectAndDisplayData -->
+    </test> <!-- Google News Data Collection and Display - Automation Testing - Chrome -->
+    <test name="Sports Betway Data Collection and Display - Automation Testing - Chrome" duration-ms="26834" started-at="2017-04-11T21:03:40Z" finished-at="2017-04-11T21:04:07Z">
+      <class name="com.dos.test_assess.tests.CollectAndDisplayData">
+        <test-method status="PASS" signature="sportsBetway(java.lang.String, java.lang.String, java.lang.String, int)[pri:0, instance:com.dos.test_assess.tests.CollectAndDisplayData@204f30ec]" name="sportsBetway" duration-ms="26830" started-at="2017-04-11T23:03:40Z" finished-at="2017-04-11T23:04:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://sports.betway.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[SportsBetway_CollectAndDisplayData_AutomationTesting]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[30]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sportsBetway -->
+      </class> <!-- com.dos.test_assess.tests.CollectAndDisplayData -->
+    </test> <!-- Sports Betway Data Collection and Display - Automation Testing - Chrome -->
+  </suite> <!-- Assessment Test Suite -->
+</testng-results>

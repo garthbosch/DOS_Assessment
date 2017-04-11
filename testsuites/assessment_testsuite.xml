@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Assessment Test Suite">
+    <test name="Google News Data Collection and Display - Automation Testing - Chrome" enabled="true">
+        <parameter name="url" value="http://news.google.com/" />      
+        <parameter name="filename" value="GoogleNews_CollectAndDisplayData_AutomationTesting" />
+        <parameter name="selectedBrowserType" value="chrome" /> <!-- use the following e.g. chrome, internet explorer, firefox, opera etc-->        
+		<parameter name="waitTimeout" value="30" /> <!-- Waiting for element before timing out-->
+		<groups>
+            <run>
+                <include name="googleNews" />
+            </run>
+        </groups>
+        <classes>
+            <class name="com.dos.test_assess.tests.CollectAndDisplayData" />
+        </classes>
+    </test>
+    
+    <test name="Sports Betway Data Collection and Display - Automation Testing - Chrome" enabled="true">
+        <parameter name="url" value="https://sports.betway.com/" />      
+        <parameter name="filename" value="SportsBetway_CollectAndDisplayData_AutomationTesting" />
+        <parameter name="selectedBrowserType" value="chrome" /> <!-- use the following e.g. chrome, internet explorer, firefox, opera etc-->        
+		<parameter name="waitTimeout" value="30" /> <!-- Waiting for element before timing out-->
+		<groups>
+            <run>
+                <include name="sportsBetway" />
+            </run>
+        </groups>
+        <classes>
+            <class name="com.dos.test_assess.tests.CollectAndDisplayData" />
+        </classes>
+    </test>
+</suite>

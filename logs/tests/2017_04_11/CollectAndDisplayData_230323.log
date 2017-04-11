@@ -1,0 +1,51 @@
+(23:03:24,083) SeleniumWebDriverUtils : INFO  - Closing Chrome tasks...
+(23:03:25,181) SeleniumWebDriverUtils : INFO  - [Info] Browser type is: Chrome
+(23:03:37,337) SeleniumWebDriverUtils : INFO  - [Info] Element Text Of The Article found.
+(23:03:37,388) CollectAndDisplayData : INFO  - Article 1: EFF and others schedule #ZumaMustFall 2.0 for president's birthday
+(23:03:37,414) CollectAndDisplayData : INFO  - Article 2: Tillerson lands in Moscow to be greeted by Russian warnings
+(23:03:37,446) CollectAndDisplayData : INFO  - Article 3: Explosions near Dortmund team bus
+(23:03:37,478) CollectAndDisplayData : INFO  - Article 4: President Zuma sings and dances ahead of no confidence motion
+(23:03:37,507) CollectAndDisplayData : INFO  - Article 5: Jonevret claims his first league win as Pirates see off Maritzburg
+(23:03:37,534) CollectAndDisplayData : INFO  - Article 6: US-Russia diplomacy: Why one airstrike does not leverage make
+(23:03:37,567) CollectAndDisplayData : INFO  - Article 7: North Korea state media warns of nuclear strike if provoked
+(23:03:37,595) CollectAndDisplayData : INFO  - Article 8: Social media users slam United over passenger's treatment
+(23:03:37,621) CollectAndDisplayData : INFO  - Article 9: Zambia's main opposition leader charged with treason
+(23:03:37,646) CollectAndDisplayData : INFO  - Article 10: Uganda charges minister accused of taking bribe
+(23:03:37,674) CollectAndDisplayData : INFO  - Article 11: Proposal for Raila ticket splits NASA
+(23:03:37,702) CollectAndDisplayData : INFO  - Article 12: Reps to release Dogara's pay slip, blasts El-Rufai for 'undermining' Buhari, legislature
+(23:03:37,730) CollectAndDisplayData : INFO  - Article 13: Holomisa could interdict motion of no confidence
+(23:03:37,764) CollectAndDisplayData : INFO  - Article 14: SACP in GP condemns 'organised cowardly attack' at Chris Hani ceremony
+(23:03:37,816) CollectAndDisplayData : INFO  - Article 15: Latest Zuma rape cartoon decision 'not taken lightly' - Zapiro
+(23:03:37,852) CollectAndDisplayData : INFO  - Article 16: WATCH: 'Bring your kids to stay at my house,' EnviroServ CEO challenged
+(23:03:37,884) CollectAndDisplayData : INFO  - Article 17: DJ Zinhle's boyfriend in dock for fraud
+(23:03:37,917) CollectAndDisplayData : INFO  - Article 18: Naspers to increase stake in Takealot
+(23:03:37,957) CollectAndDisplayData : INFO  - Article 19: National bus strike threatens anti-Zuma march
+(23:03:37,989) CollectAndDisplayData : INFO  - Article 20: SA's energy minister delays signing IPPs contracts – report
+(23:03:38,019) CollectAndDisplayData : INFO  - Article 21: BUSINESS DAY TV: Coal-fired power stations will be here for a long time and can still generate value
+(23:03:38,049) CollectAndDisplayData : INFO  - Article 22: Go download the massive Windows 10 Creators Update right now
+(23:03:38,076) CollectAndDisplayData : INFO  - Article 23: AMD Ryzen 5 review
+(23:03:38,111) CollectAndDisplayData : INFO  - Article 24: Overwatch patch notes revealed for Uprising event, as Blizzard server trouble strikes
+(23:03:38,145) CollectAndDisplayData : INFO  - Article 25: Qualcomm countersues Apple
+(23:03:38,172) CollectAndDisplayData : INFO  - Article 26: Caitlyn Jenner feels 'liberated' after gender reassignment surgery
+(23:03:38,198) CollectAndDisplayData : INFO  - Article 27: Thuli Phongolo starts her own clothing line
+(23:03:38,225) CollectAndDisplayData : INFO  - Article 28: Somizi Mhlongo's fabulous life
+(23:03:38,251) CollectAndDisplayData : INFO  - Article 29: Bradley Cooper and Irina Shayk's Baby Has a Name We've NEVER Heard Before
+(23:03:38,278) CollectAndDisplayData : INFO  - Article 30: Clinical Dybala Helps Juve Outclass Barca
+(23:03:38,304) CollectAndDisplayData : INFO  - Article 31: Baroka claim victory over Stars
+(23:03:38,331) CollectAndDisplayData : INFO  - Article 32: Wits reclaim top spot with win over blunt Arrows
+(23:03:38,357) CollectAndDisplayData : INFO  - Article 33: Bookies not sold on Stormers' title chances
+(23:03:38,385) CollectAndDisplayData : INFO  - Article 34: Loss of coral reefs caused by rising sea temperatures could cost $1tn globally
+(23:03:38,411) CollectAndDisplayData : INFO  - Article 35: NASA to announce new discoveries about ocean worlds
+(23:03:38,437) CollectAndDisplayData : INFO  - Article 36: 'Pink Moon' will be visible tonight - but it won't be pink
+(23:03:38,465) CollectAndDisplayData : INFO  - Article 37: Mars's atmosphere hosts metal layers that shouldn't exist
+(23:03:38,494) CollectAndDisplayData : INFO  - Article 38: 'A beautiful end': Hospital grants dying patient's wish to drink wine with family (PHOTO)
+(23:03:38,520) CollectAndDisplayData : INFO  - Article 39: Fireproof chemicals in sofas linked to thyroid cancer
+(23:03:38,546) CollectAndDisplayData : INFO  - Article 40: Controversial Study Says Microwaving Tea Might Be Healthiest Way To Brew It
+(23:03:38,576) CollectAndDisplayData : INFO  - Article 41: Nigeria: The Meningitis Emergency
+(23:03:39,706) SeleniumWebDriverUtils : INFO  - Closing Chrome tasks...
+(23:03:40,327) SeleniumWebDriverUtils : INFO  - Closing Chrome tasks...
+(23:03:41,537) SeleniumWebDriverUtils : INFO  - [Info] Browser type is: Chrome
+(23:04:05,599) SeleniumWebDriverUtils : INFO  - [Info] Element Live Games On Page found.
+(23:04:05,630) CollectAndDisplayData : INFO  - Game 1: soccer_guatemala_liga-nacional_live
+(23:04:05,644) CollectAndDisplayData : INFO  - Game 2: soccer_iceland_league-cup-b_live
+(23:04:06,769) SeleniumWebDriverUtils : INFO  - Closing Chrome tasks...
