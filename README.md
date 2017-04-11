@@ -2,23 +2,22 @@
 
 Requirements
 ============
-EXTERNAL (To be completed outside the office)
-Key:
-Programming Language – C# or Java
-Automation Web Testing Tool – Webdriver (Selenium)
-BDD Framework – Your own choice
-Time: Should not exceed 4 hours
-Scenario – A company and their QA engineers are new to Automation testing and will like to run multiple tests across different sites, whilst connecting to a single base/framework.
-Tests should be able to run on a minimum of 1 current web browser and be able to output results in a readable format to the business.
-The Base/Framework should be able to open a new browser session with cache & cookies cleared along with closing & terminating the session after test(s) have ran.
+*)  EXTERNAL (To be completed outside the office)
+*)  Key:
+    -   Programming Language – C# or Java
+    -   Automation Web Testing Tool – Webdriver (Selenium)
+    -   BDD Framework – Your own choice
+    -   Time: Should not exceed 4 hours
+    -   Scenario – A company and their QA engineers are new to Automation testing and will like to run multiple tests across different sites, whilst connecting to a single base/framework.
+                   Tests should be able to run on a minimum of 1 current web browser and be able to output results in a readable format to the business.
+                   The Base/Framework should be able to open a new browser session with cache & cookies cleared along with closing & terminating the session after test(s) have ran.
  
-Test(s) to run:
-A.      Go to http://news.google.com/ and print out all the headlines displayed on the page.
-B.      Go to https://sports.betway.com/ and print out all the live games displayed on the page.
-
+*)  Test(s) to run:
+    A.  Go to http://news.google.com/ and print out all the headlines displayed on the page.
+    B.  Go to https://sports.betway.com/ and print out all the live games displayed on the page.
  
-1.       Create the above scenario using tools/software from the key provided
-2.       In your own words, describe what makes a good automation base/framework.
+    1.  Create the above scenario using tools/software from the key provided
+    2.  In your own words, describe what makes a good automation base/framework.
 
 Solution
 ========
