@@ -29,6 +29,7 @@ Technologies Stack:
 3)  Testing Framework       : TestNG v6.8
 4)  Browser Driver          : Chrome Driver v2.29.461591
 5)  Internet Browser        : Chrome v57.0.2987.133
+6)  IDE used                : Eclipse Version: Luna Service Release 1a (4.4.1)
 
 Dependancies:
 -------------
@@ -50,6 +51,13 @@ Source Files:
 Test Script:
 ------------
 1)  The test script "assessment_testsuite.xml" can be found under "./testsuites". This script is an xml file which contains two tests that covers Test Run A and B in the requirements.
+
+Setup and Execution:
+--------------------
+1)  Create a java project on eclipse - the name must be DOS_Assessment.
+2)  The location should be where you check the code out to.
+3)  Once the project has been created make sure you configure your build path with the correct dependancies. See Dependancies section.
+4)  After successful setup of the project right-click the test script "assessment_testsuite.xml" and run it as a TestNG Suite.
 
 Conclusion:
 -----------
